@@ -120,4 +120,4 @@
   </a> 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nis7al&show_icons=true&locale=en&layout=compact" alt="nis7al" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chudalnischal&show_icons=true&locale=en&layout=compact" alt="nis7al" /></p>
