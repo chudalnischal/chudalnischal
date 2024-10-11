@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nischal Chudal</h1>
 <h3 align="center">An Aspiring Cloud Engineer</h3>
-# 💫 About Me:
+
+💫 About Me:
 🌱 I’m currently learning Various Cloud Tools and Technologies.<br><br>👯 I’m looking to collaborate on CI/CD Projects<br><br>🤝 I’m looking for help with Terraform & Ansible<br><br>📝 I regularly write articles on https://chudalnischal.hashnode.dev/<br><br>💬 Ask me about Docker, Jenkins, Python, Kubernetes<br><br>📫 How to reach me https://www.linkedin.com/in/nischal-chudal-a06a63286/<br><br>⚡ Fun fact I laugh Everytime
 
 
