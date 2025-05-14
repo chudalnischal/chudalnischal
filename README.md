@@ -1,5 +1,9 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Various Cloud Tools and Technologies<br>🎓 I'm preparing for AWS Developer Associates<br>📝 I regularly write articles on https://medium.com/@nischalchudal17<br>💬 Ask me about Docker, Jenkins, Python, Kubernetes<br>📫 How to reach me https://www.linkedin.com/in/nischal-chudal-a06a63286/<br>⚡ Fun fact I laugh Everytime
+<br>🌱 I’m currently learning Various Cloud Tools and Technologies<br>
+🎓 I'm preparing for AWS Developer Associates<br>
+📝 I regularly write articles on https://medium.com/@nischalchudal17<br>
+💬 Ask me about Docker, Jenkins, Python, Kubernetes<br>
+📫 How to reach me https://www.linkedin.com/in/nischal-chudal-a06a63286/<br>⚡ Fun fact I laugh Everytime
 
 
 ## 🌐 Socials:
@@ -15,7 +19,7 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=chudalnischal&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
