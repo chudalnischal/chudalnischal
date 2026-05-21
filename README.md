@@ -1,7 +1,7 @@
 # 💫 About Me:
-<br>🌱 I’m currently learning Various Security Modules<br><br>
+<br>🌱 I’m currently learning Various Security Modules<br>
 💬 Ask me about Technical Support, Security and Cloud <br>
-📫 How to reach me https://www.linkedin.com/in/nischal-chudal-a06a63286/<br>⚡
+📫 How to reach me https://www.linkedin.com/in/nischal-chudal-a06a63286/<br>
 
 
 ## 🌐 Socials:
